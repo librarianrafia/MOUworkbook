@@ -15,6 +15,6 @@ The process of writing an MOU is iterative.  We hope to continue to build and ex
 
 If you use this template, the MOU team would like to hear from you about your experience. Additionally, if you create a template for a standardized project, we would like to include it in the workbook and give you credit as a contributor. Please contact us.
 
-The full collection is availibe in  <a href="https://uta-ir.tdl.org/uta-ir/handle/10106/25646">UTA's Research Commons</a>
+The full collection is available in  <a href="https://uta-ir.tdl.org/uta-ir/handle/10106/25646">UTA's Research Commons</a>
 
 
