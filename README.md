@@ -1,9 +1,9 @@
 
-<p><strong>Introduction</strong>.</p>
+<p><strong>Introduction:</strong></p>
 
 The Digital Humanities Liaison (Rafia Mirza), Director of Scholarly Communication (Brett Currier), and The Research Data Librarian (Peace Ossom Williamson) have developed a workbook for the use of Memorandums of Understanding (MOUs) in Libraries.  We have developed a MOU template to apply to large scale collaborative projects.  We have found that this workflow and management has assisted the library with organizational commitment, identifying hiccups and limitations before starting the project, and priority evaluation with competing projects. Because the shift from transactional work to long term projects is happening in many libraries, The MOU team has created a workbook available through ResearchCommons. This collection includes a general MOU template, templates for particular projects, a workflow, and instructions for each. 
 
-<p><strong>Background for this colection</strong>.</p>
+<p><strong>Background for this collection:</strong></p>
 
 As the library has collaborated on more and more projects we have found that the process goes more smoothly for all parties when expectations are discussed beforehand and  pre-planning is done. We think of the Memorandum of Understanding as a blueprint for projects. Of course, projects may change as you begin work on them, but a blueprint helps all parties be aware of what to expect on the way.  We have found that collaboration thrives on transparency, communication and understanding.  
 
