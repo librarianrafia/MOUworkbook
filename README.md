@@ -17,4 +17,10 @@ If you use this template, the MOU team would like to hear from you about your ex
 
 The full collection is also available in  <a href="https://uta-ir.tdl.org/uta-ir/handle/10106/25646">UTA's Research Commons</a>.
 
+If you use this template, the MOU team would like to hear from you about your experience.
+
+Contact Information:
+
+Contact Rafia Mirza, Brett Currier and Peace Ossom Williamson  <a href="mailto:mouworkbook@gmail.com ">by emailing us at mouworkbook@gmail.com </a>
+
 
